@@ -81,3 +81,20 @@ The project uses the **HR Employee Attrition** dataset containing employee-level
 **Danish Sayyad**
 
 Power BI | Data Analytics | HR Analytics
+
+## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+### Employee Demographics
+![Employee Demographics](Employee%20Demographics.png)
+
+### Attrition Analysis
+![Attrition Analysis](Attrition%20Analysis.png)
+
+### Attrition Drivers
+![Attrition Drivers](Attrition%20Drivers.png)
+
+### Employee Wellness
+![Employee Wellness](Employee%20Wellness.png)
